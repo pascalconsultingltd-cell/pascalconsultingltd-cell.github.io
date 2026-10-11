@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.pascalconsultingltd_cell.sightreading",
+    "sha256_cert_fingerprints": ["EE:32:F4:A5:5B:17:94:FD:26:D4:5F:BB:26:15:F1:8B:4F:0E:DA:29:89:0B:A4:01:00:C1:88:8E:62:C7:C2:86"]
+  }
+}]
